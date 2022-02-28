@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from New-England: in a letter written to a person of quality, wherein is a true account of the present state of that countrey, with respect to the late revolution, and the present war with the Indians there. : Together with a relation of a late and bloody fight between the English and the Indians, wherein the latter were routed : As also of a pretended miracle of the French Jesuits in that part of the world : Licens'd Febr. 27. 1689. J.F.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90084</idno>
+            <idno type="STC">Wing N983A</idno>
+            <idno type="STC">ESTC R180932</idno>
+            <idno type="EEBO-CITATION">43077542</idno>
+            <idno type="OCLC">ocm 43077542</idno>
+            <idno type="VID">151614</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151614)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2267:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from New-England: in a letter written to a person of quality, wherein is a true account of the present state of that countrey, with respect to the late revolution, and the present war with the Indians there. : Together with a relation of a late and bloody fight between the English and the Indians, wherein the latter were routed : As also of a pretended miracle of the French Jesuits in that part of the world : Licens'd Febr. 27. 1689. J.F.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton, at the Raven in the Poultry,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indians of North America --  Massachusetts.</term>
+               <term>Indians of North America --  Wars --  1600-1775.</term>
+               <term>Massachusetts --  Politics and government --  To 1775.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:151614:1" rendition="simple:additions"/>
+            <head>News from New-England: IN A LETTER Written to a Perſon of Quality, wherein is a true Account of the preſent State of that Countrey, with re<g ref="char:EOLhyphen"/>ſpect to the late REVOLUTION, and the preſent War with the <hi>INDIANS</hi> there. Together with a RELATION of <hi>A Late and Bloody Fight</hi> BETWEEN The <hi>ENGLISH</hi> and the <hi>INDIANS,</hi> wherein the latter were Routed: AS ALSO OF A Pretended Miracle of the <hi>French Jeſuits</hi> in that part of the World. </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licens'd <hi>Febr.</hi> 27. 1689. <hi>J. F.</hi>
+                  </p>
+               </body>
+            </floatingText>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>THat you may not be impoſed upon by falſe <hi>Accounts,</hi> which I perceive ſome Ill Men do with a malicious Deſign induſtriouſly pro<g ref="char:EOLhyphen"/>mote, concerning <hi>the preſent State of</hi> New-England; I have thought it my Duty to Communicate to you what Intelligence I have received from thence.</p>
+            <p>You may pleaſe to be Informed, that above a year ago, whilſt Sir <hi>E. A.</hi> who acted by an Ille<g ref="char:EOLhyphen"/>gal and Arbitrary Commiſſion, under the late King <hi>James,</hi> was executing his Tyranny (as by their De<g ref="char:EOLhyphen"/>claration publiſhed at <hi>Boſton, April</hi> 18<hi rend="sup">th</hi>. 1689. does more fully appear) over the People of <hi>New-England,</hi> the <hi>Indians</hi> in that part of the World began a War upon them.</p>
+            <p>Thoſe <hi>Indians</hi> affirmed (how truly God knows) that they were encouraged ſo to do, not only by the <hi>French,</hi> who inhabit that Continent, but by Sir <hi>E. A.</hi> that ſo they might deſtroy King <hi>James</hi> his Enemies. A ſmall party of <hi>Indians</hi> began the War, ſome of which were ſeized by the <hi>Engliſh;</hi> but Sir <hi>E.</hi> ſet them at liberty, with many favours, which did not a little augment the Jealouſies of the People; and it is ſaid theſe very <hi>Indians</hi> have done a great part of the Miſchief ſince ſuſtained by the Inhabitants there. Whilſt theſe things were a do<g ref="char:EOLhyphen"/>ing, Sir <hi>E. A.</hi> did all that poſſibly he could to keep People Ignorant of Affairs in <hi>England:</hi> Yea, ſome were impriſoned for diſperſing the Prince of <hi>O<g ref="char:EOLhyphen"/>range</hi>'s Declaration, which was ſtyled by ſome a <hi>Seditious Pamphlet,</hi> tending to <hi>Rebellion.</hi> This, notwithſtanding the Prince his Declaration, (In<g ref="char:EOLhyphen"/>telligence from <hi>England</hi> at the ſame time alſo ar<g ref="char:EOLhyphen"/>riving, that in <hi>Hull, Dover,</hi> &amp;c. the Illegal Go<g ref="char:EOLhyphen"/>vernours were ſeized on) did ſo Inſpire and Ani<g ref="char:EOLhyphen"/>mate great multitudes of People, as that they ſe<g ref="char:EOLhyphen"/>cured Sir <hi>E.</hi> and his Arbitrary Complices, who had been their Oppreſſors, reſerving them for ſuch Puniſhment as <hi>the King and Parliament of</hi> Eng<g ref="char:EOLhyphen"/>land ſhould think meet for them: And this they did that all the World might ſee they acknow<g ref="char:EOLhyphen"/>ledge a dependance on <hi>England,</hi> as by their Char<g ref="char:EOLhyphen"/>ters they are obliged.</p>
+            <p>They ſuppoſed thoſe Perſons to be great Crimi<g ref="char:EOLhyphen"/>nals, who had either proſecuted <hi>Quo Warranto's</hi> againſt their <hi>Charters,</hi> or pretended Surrenders when there were none, or had levied Moneys on the Kings Subjects, without any conſent of the People, or of their Repreſentatives; and this too in thoſe Colonies, againſt whoſe Charters no Judg<g ref="char:EOLhyphen"/>ment was entred, or legal Surrenders made, but an Arbitraty Power ſet over them.</p>
+            <p>On the firſt notice of his preſent Majeſty (then Prince of <hi>Orange</hi>) his Declaration, before ever they know what the Event of thi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ld be, they readily Embarqued themſelves in that Glorious Cauſe which is for <hi>Religion, Liberty, and Property.</hi>
+            </p>
+            <p>And immediately upon their hearing that the Prince was King of <hi>England,</hi> they did with the greateſt Alacrity Proclaim him their King in <hi>New-England:</hi> And this they did of their own accord, without any Order from hence requiring it of them.</p>
+            <p>After this (as Letters from thence inform) the <hi>Indians,</hi> to whom Sir <hi>E. A.</hi> had been ſo favourable, burnt ſeveral (ſome of them conſiderable) Plantati<g ref="char:EOLhyphen"/>ons in the Eaſtern parts of the Countrey, killing or taking Captive ſome ſcores of them; of which as yet we have not a full and particular Account: Al<g ref="char:EOLhyphen"/>ſo the Fort of <hi>Pemmaquid</hi> being deſerted, was ſometime in the hands of the <hi>Indians;</hi> but the Ma<g ref="char:EOLhyphen"/>ſter of the laſt Ship that came from <hi>Boſton,</hi> relates, That now there are neither <hi>Indians,</hi> nor <hi>French,</hi> nor any other in that Fort, it being demoliſhed by a <hi>Dutch</hi> Privateer, who was lately on that Coaſt, and has taken away the Guns which were in it.</p>
+            <p>'Tis alſo credibly reported, That the <hi>New-Eng<g ref="char:EOLhyphen"/>landers</hi> had a Fight with the <hi>Indians</hi> in <hi>September</hi> laſt: And that their Enemies were Routed, not one <hi>Indian</hi>-Enemy to be ſeen or heard of for ſix weeks before the laſt Veſſels came from thence.</p>
+            <p>In a Letter from <hi>Boſton, October</hi> 16. 1689. writ<g ref="char:EOLhyphen"/>ten by a good hand, are theſe words, <q rend="margQuotes">The <hi>Indi<g ref="char:EOLhyphen"/>ans</hi> do now and then ſome hurt in our Plantations, but of late little, for there is an Army of <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> with two or three hundred of our Friend-<hi>In<g ref="char:EOLhyphen"/>dians</hi> gone out againſt them, and have beaten them. Alſo there is an Army of other <hi>Indians</hi> call<g ref="char:EOLhyphen"/>ed <hi>Mohawks,</hi> which are going out againſt them, ſo that in a ſhort time an end may be put to this trouble.</q>
+            </p>
+            <p>Another Letter written by a Perſon worthy of
+<pb n="2" facs="tcp:151614:2"/> Credit, (dated <hi>October</hi> 21.) giveth a further (and indeed a very remarkable) Account of the preſent State of Affairs there, which I have therefore cau<g ref="char:EOLhyphen"/>ſed to be tranſcribed; the words are theſe.</p>
+            <q rend="margQuotes">
+               <p>
+                  <hi>Sir,</hi> Among our other Calamities at this day afflicting of us, we are extreamly intangled by an <hi>Indian</hi> War, which hath ruined ſome Heathe<g ref="char:EOLhyphen"/>niſh <hi>Engliſh</hi> Plantations in the Northern and Ea<g ref="char:EOLhyphen"/>ſtern Parts of the Countrey; but we have an Ar<g ref="char:EOLhyphen"/>my now in the purſuit after thoſe Enemies, who affirm (as our Captives eſcaped from them inform) that they are encouraged by ſome Gentlemen in <hi>Bo<g ref="char:EOLhyphen"/>ſton,</hi> vigorouſly to proſecute the War upon us. By a marvellous Providence the moſt Mighty and Warlike Nation of the <hi>Indians,</hi> namely, the <hi>Mo<g ref="char:EOLhyphen"/>hawks,</hi> who dwell three or four hundred miles to the Weſtward, are become implacable Enemies to the <hi>French</hi> of <hi>Canada,</hi> under whoſe Patronage and Encouragement our <hi>Indian</hi> Enemies do ſhroud themſelves. Theſe <hi>Mohawks,</hi> which are the Ter<g ref="char:EOLhyphen"/>ror of all about them, have kindly offered to give a Deſtructive Viſit unto our Enemies, when their hand's in at the ſlaying of the <hi>French,</hi> whom they have already ſlaughtered many hundreds of, and we are every day waiting for the Iſ<g ref="char:EOLhyphen"/>ſue of it.</p>
+               <p>'Tis remarkable, That theſe <hi>Mohawks</hi> had been many of them perverted unto <hi>Popery</hi> by the endea<g ref="char:EOLhyphen"/>vours of the <hi>French Jeſuits</hi> amongſt them; but ſome while ſince a noted Jeſuit pretended to work a <hi>Mira<g ref="char:EOLhyphen"/>cle</hi> for their Confirmation in the <hi>Roman Catholick Re<g ref="char:EOLhyphen"/>ligion;</hi> and told them, That God was angry at them for their making no more Demonſtrations of their Zeal for his Religion: and therefore as a token of it, ſuch a day the Sun would be black. Before the day came, the <hi>Mohawks,</hi> many o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, had <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> opportunity for ſome Converſation with the <hi>Dutch,</hi> and acquainting them with their Expectations of this Miracle, the <hi>Dutch</hi> told them, Every Child amongſt them could foretell as much as that came to; for an <hi>Eclipſe of the Sun</hi> was to happen on that day: But (ſaid they) let the Jeſuit make the Sun black a day before, or a day after, and then believe all he ſays.</p>
+               <p>Hereupon they were ſo terribly diſtaſted at the Jeſuits going to put a trick upon them, that they have reſolved to Renounce what little Po<g ref="char:EOLhyphen"/>pery they had, and have ſeriouſly applyed them<g ref="char:EOLhyphen"/>ſelves to ſome Proteſtant Miniſters, whoſe Inſtru<g ref="char:EOLhyphen"/>ctions they ſeem to imbibe with affections that invite us to conſider upon ſome further Expedi<g ref="char:EOLhyphen"/>ents for their Converſion.</p>
+            </q>
+            <p>Thus that Letter.</p>
+            <p>There are alſo ſeveral Letters, dated <hi>October</hi> laſt, directed to ſome Perſons of Quality in <hi>London,</hi> from the the Honourable <hi>Simon Bradſtreet,</hi> who is the preſent Governour at <hi>Boſton</hi> in <hi>New-England,</hi> which inform of the great Devaſtations made by the <hi>Indians</hi> in the Province of <hi>Main,</hi> (that having been the chief Seat of the War) and in <hi>Hampſhire;</hi> and ſome miſchief they have done (tho not much) in the <hi>Maſſachuſetts</hi> Colony: But the three Colonies of <hi>Maſſachuſetts, Plimouth,</hi> and <hi>Connecticot,</hi> (which were whilſt they enjoyed their Charter-Govern<g ref="char:EOLhyphen"/>ment called the <hi>
+                  <g ref="char:V">Ʋ</g>nited Colonies</hi>) have by a joynt concurrence ſent out a conſiderable Force againſt the Common Enemy in two Bodies; they could not come to a pitcht Battel with the <hi>Indians,</hi> whoſe manner is to skulk in the Woods, and to do their miſchief by ſeveral Parties. The ſame Honoura<g ref="char:EOLhyphen"/>ble Perſon (together with the Council in <hi>Boſton</hi>) writes, that they are not ſecure from an Attack by the <hi>French,</hi> who (as they hear) have conſiderable ſtrength in the <hi>Weſt-Indies;</hi> but by the help of God, they will endeavour to preſerve and defend their Majeſties Intereſt, as well againſt the <hi>French,</hi> as any other Enemies to the Crown of <hi>England.</hi>
+            </p>
+            <p>Alſo, That ſome in <hi>Albany</hi> fearing an Attack from the <hi>French,</hi> having firſt made their Applicati<g ref="char:EOLhyphen"/>on to <hi>New-York,</hi> could not be ſupplyed from thence, they ſent to the preſent Government at <hi>Boſton</hi> for Aſſiſtance; and Order has been taken by the Con<g ref="char:EOLhyphen"/>currence of the three Colonies for the raiſing of a Company to be ſent to <hi>Albany,</hi> to enforce and ſtrengthen the Garriſon there: For the ſeveral Go<g ref="char:EOLhyphen"/>vernments of the Colonies in <hi>New-England,</hi> hold themſelves concerned to intend the ſecurity and pre<g ref="char:EOLhyphen"/>ſervation of their Majeſties Intereſt throughout that whole Countrey. And divers particular Perſons (ſuch is their Loyalty and Affection to their preſent Majeſties, King <hi>William,</hi> and Queen <hi>Mary,</hi>) have been willing to advance of their own Eſtates, to<g ref="char:EOLhyphen"/>wards the charge thereof, upon the publick Credit, ſome beyond their Abili<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> They moreover write, That ſome Perſons who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rned in the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te unhappy Government, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der Sir <hi>E<g ref="char:punc">▪</g> A.</hi> ſeei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em<g ref="char:EOLhyphen"/>ſelves diſappoitned in thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hopes of raiſing their Fortunes upon the ruines of t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> People of <hi>New-Eng<g ref="char:EOLhyphen"/>land,</hi> manifeſt their diſaffection, not only to the pre<g ref="char:EOLhyphen"/>ſent Government there, but in <hi>England</hi> alſo, ſome of them having been ſo impudent as to expreſs their Expectations and Deſires, that the late King <hi>James</hi> would be reſtored again; and have done what they could to Royle the Inhabitants, by raiſing and fo<g ref="char:EOLhyphen"/>menting falſe Reports concerning the preſent State <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Affairs in <hi>England:</hi> But the People (as well as thoſe who are now in Government there) are ſted<g ref="char:EOLhyphen"/>faſt in their Loyalty to their Preſent Majeſties.</p>
+            <p>This, Sir, is what is come to my hands reſpecting the preſent State of <hi>New-England.</hi> I expect more daily, which when I receive, I ſhall not fail to gra<g ref="char:EOLhyphen"/>tifie your deſires in imparting what may be relyed on as a true Relation: This is all at preſent, from</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENTS.</head>
+            <p>There is lately Publiſhed, The Fourth Volumn of <hi>Ca<g ref="char:EOLhyphen"/>ſuiſtical Morning-Exerciſes,</hi> by ſeveral Miniſters in and about <hi>London,</hi> Preached in <hi>October, 1689.</hi>
+            </p>
+            <p>
+               <hi>A new Martyrology,</hi> or the Bloody Aſſizes, now exactly Methodi<g ref="char:EOLhyphen"/>zed in one Volumn, comprehending a Compleat Hiſtory of the Lives, Tryals, Sufferings, Death and Characters of Sir <hi>Edmund-Bury Godfrey,</hi> Juſtice <hi>Arnold,</hi> Mr. <hi>Colledge, Arthur</hi> Earl <hi>of Eſ<g ref="char:EOLhyphen"/>ſex, William</hi> Lord <hi>Ruſſel,</hi> Collonel <hi>Sydney,</hi> Captain <hi>Walcot,</hi> Mr. <hi>Rouſe,</hi> Mr. <hi>Holloway,</hi> Sir <hi>Thomas Armſtrong,</hi> Alderman <hi>Corniſh,</hi> Mr. <hi>Bateman,</hi> Mr. <hi>Noyce,</hi> Dr. <hi>Oats,</hi> Mr. <hi>Johnſon,</hi> Mr. <hi>Dan<g ref="char:EOLhyphen"/>gerfield,</hi> the late Duke of <hi>Monmouth,</hi> the <hi>Earl of Argyle,</hi> Collonel <hi>Rumbald,</hi> Mr. <hi>Benjamin</hi> and Mr. <hi>William Hewling,</hi> Mr. <hi>Wil<g ref="char:EOLhyphen"/>liam Jenkins,</hi> Mr. <hi>Batiſcomb,</hi> the Lady <hi>Liſle,</hi> Mrs <hi>Gaunt,</hi> Mr. <hi>Nelthrope,</hi> Mr. <hi>Charles Speak,</hi> Collonel <hi>Holmes,</hi> Mr. <hi>Hicks,</hi> Mr. <hi>Lark,</hi> Mr. <hi>Madders,</hi> Capt. <hi>Kidd,</hi> Dr. <hi>Temple,</hi> Mr. <hi>Parret,</hi> Capt. <hi>Anneſley,</hi> and Capt. <hi>Matthews.</hi> Together with the <hi>Dying Speeches, Letters, and Prayers,</hi> &amp;c. of all the reſt of thoſe Emi<g ref="char:EOLhyphen"/>nent Proteſtants, who fell in the <hi>Weſt<g ref="char:punc">▪</g> of England,</hi> and elſewhere; from the year <hi>1678. to 1689.</hi> With the <hi>Pictures</hi> of ſeveral of the Chief of them in <hi>Copper-Plates.</hi> To this Treatiſe is added the Life, Death, and Character of <hi>George</hi> Lord <hi>Jefferies.</hi>
+            </p>
+            <p>Mr. Kents <hi>Funeral Sermon preached by Mr.</hi> Samuel Slater. <hi>All three Printed for</hi> John Dunton.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Dunton,</hi> at the <hi>Raven</hi> in the <hi>Poultrey.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
